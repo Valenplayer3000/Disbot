@@ -2,7 +2,11 @@
 
 A new, simple discord bot made using python.
 
-## TODO
+For fun purposes only.
 
-- [ ] Finish the bot
-- [ ] Add more commands (Like ban and kick commands)
+## TODO (Commands)
+
+All the following commands are completed or incomplete.
+
+- [x] Roll commands
+- [ ] ???

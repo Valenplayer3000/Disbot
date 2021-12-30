@@ -10,7 +10,7 @@ class NyanCog(commands.Cog, name="nyan command"):
                     description = "Say nyan! ^W^")
     @commands.cooldown(1, 2, commands.BucketType.member)
     async def nyan(self, ctx):
-        await ctx.send("Nyan!")
+        await ctx.send("🐱 || Nyan!")
 
 
 def setup(bot:commands.Bot):

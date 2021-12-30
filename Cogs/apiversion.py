@@ -11,7 +11,7 @@ class VersionCog(commands.Cog, name="api-version command"):
 
     @commands.cooldown( 1, 2, commands.BucketType.member)
     async def version(self, ctx):
-        await ctx.send("API Version: " + discord.__version__)
+        await ctx.send("⚙ || API Version: " + discord.__version__)
 
 def setup(bot:commands.Bot):
     bot.add_cog(VersionCog(bot))
