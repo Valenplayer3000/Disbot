@@ -10,6 +10,7 @@ class BanCog(commands.Cog, name="ban command"):
     @commands.cooldown(1, 2, commands.BucketType.member)
     async def ban(self, ctx):
         await ctx.send("https://tenor.com/view/rickroll-roll-rick-never-gonna-give-you-up-never-gonna-gif-22954713")
+        await ctx.send("Get **Rickrolled!**")
 
 
 def setup(self: commands.Bot):

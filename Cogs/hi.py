@@ -9,7 +9,7 @@ class HiCog(commands.Cog, name="hi command"):
     @commands.command(name="hi", usage="", description="Say hi!")
     @commands.cooldown(1, 2, commands.BucketType.member)
     async def hi(self, ctx):
-        await ctx.send("Hi! 👋")
+        await ctx.send("👋 || Hi!")
 
 
 def setup(bot: commands.Bot):

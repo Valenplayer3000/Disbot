@@ -1,6 +1,6 @@
 # Disbot
 
-A new, simple discord self made using python.
+A new, simple discord self-made using python.
 
 100% Open Source code 👌
 
@@ -12,10 +12,10 @@ All the following commands are completed or incomplete.
 
 - [x] Roll commands
 - [x] About the Bot
-- [ ] Reformat the code.
+- [X] Reformat the code.
 
 ## TODO (Joke Commands)
 
-- [ ] Ban commands
-- [ ] Kick Commands
+- [X] Ban commands
+- [X] Kick Commands
 > Both Commands will send a rickroll to Y O U
