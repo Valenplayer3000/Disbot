@@ -1,5 +1,3 @@
-from smtpd import usage
-
 import discord
 from discord.ext import commands
 
