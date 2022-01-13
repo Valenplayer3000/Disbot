@@ -10,9 +10,10 @@ For fun purposes only.
 
 All the following commands are completed or incomplete.
 
-- [x] Roll commands
-- [x] About the Bot
+- [X] Roll commands
+- [X] About the Bot
 - [X] Reformat the code.
+- [X] New About the server (**PC**)
 
 ## TODO (Joke Commands)
 
