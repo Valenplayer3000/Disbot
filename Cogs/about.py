@@ -12,7 +12,7 @@ class AboutCog(commands.Cog, name="about command"):
     def __init__(self, bot: commands.bot):
         self.bot = bot
 
-    @commands.command(name="about", usage="", description="About the bot.")
+    @commands.command(name="about", usage="", description="Display about the bot.")
     @commands.cooldown(1, 2, commands.BucketType.member)
     async def about(self, ctx):
         await ctx.send("📝 || This bot was made with Python.")
