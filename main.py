@@ -2,6 +2,7 @@ import discord
 from discord.ext import commands
 import json
 import os
+import platform
 
 # Get configuration.json
 with open("configuration.json", "r") as config:
@@ -31,7 +32,8 @@ if __name__ == '__main__':
 
 @bot.event
 async def on_ready():
-    print(f"✔ || We have logged in as: {bot.user}")
+    print(f"✔ || Logged in as: {bot.user}")
+    print("Running on: " + platform.system())
     print("⚙ || running on: " + discord.__version__)
     await bot.change_presence(
         activity=discord.Activity(type=discord.ActivityType.watching, name=f"{bot.command_prefix}help"))
