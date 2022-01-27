@@ -6,6 +6,10 @@ A new, simple discord self-made using python.
 
 For fun purposes only.
 
+## ⚠ Please Read the Future of Discord.py!
+[Read future of discord.py](https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1)
+
+
 ## TODO (General)
 
 All the following commands are completed or incomplete.
