@@ -10,6 +10,7 @@ class TestCog(commands.Cog, name="test command"):
     @commands.cooldown(1, 2, commands.BucketType.member)
     async def test(self, ctx):
         await ctx.send("Hello World")
+        await ctx.send("ABCDEF 1234567890")
 
 
 def setup(bot: commands.Bot):
