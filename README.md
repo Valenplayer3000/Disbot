@@ -7,7 +7,7 @@ A new, simple discord self-made using python.
 For fun purposes only.
 
 ## Changlog on Release
-> Removed 0.1 this caused to: `The Token is currently leaked and rested by USER`
+> Removed Version 0.1. This caused to: `The Token is currently leaked and rested by USER`
 
 ## ⚠ Please Read the Future of Discord.py!
 For actual reason the discord.py repository is now read-only and archived. I'm looking forward to use javascript or other languages to maintain the bot.
