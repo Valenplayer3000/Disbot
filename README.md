@@ -9,10 +9,6 @@ For fun purposes only.
 ## Changlog on Release
 > Removed Version 0.1. This caused to: `The Token is currently leaked and rested by USER`
 
-## ⚠ Please Read the Future of Discord.py!
-For actual reason the discord.py repository is now read-only and archived. I'm looking forward to use javascript or other languages to maintain the bot.
-[Click here](https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1)
-
 
 ## TODO (General)
 
