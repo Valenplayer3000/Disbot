@@ -18,6 +18,7 @@ class AboutPCCog(commands.Cog, name="about computer command"):
         await ctx.send(f"Version: {uname.version}")
         await ctx.send(f"Machine: {uname.machine}")
         await ctx.send(f"Processor: {uname.processor}")
+        await ctx.send("===" + " End of Line " + "===")
 
 
 def setup(bot: commands.Bot):

@@ -6,9 +6,8 @@ A new, simple discord self-made using python.
 
 For fun purposes only.
 
-## ⚠ Please Read the Future of Discord.py!
-For actual reason the discord.py repository is now read-only and archived. I'm looking forward to use javascript or other languages to maintain the bot.
-[Read future of discord.py](https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1)
+## Changlog on Release
+> Removed Version 0.1. This caused to: `The Token is currently leaked and rested by USER`
 
 
 ## TODO (General)
