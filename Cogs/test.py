@@ -11,6 +11,7 @@ class TestCog(commands.Cog, name="test command"):
     async def test(self, ctx):
         await ctx.send("Hello World")
         await ctx.send("ABCDEF 1234567890")
+        await ctx.send("!@#$%^&*()_+")
 
 
 def setup(bot: commands.Bot):
