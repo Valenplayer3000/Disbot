@@ -7,7 +7,7 @@ A new, simple discord self-made using python.
 For fun purposes only.
 
 ## Changlog on Release
-> Removed Version 0.1. This caused to: `The Token is currently leaked and rested by USER`
+> Removed Version 0.1. This caused to: `The Token is currently leaked and restarted by USER`
 
 
 ## TODO (General)
